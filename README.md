@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - Welcome to my Page
 
-- 🔭 I’m currently working on My Worker API project
+- 🔭 I’m currently working on My Worker API project.
 - 🌱 I’m currently learning more on AI and API's for my project ( getting humbled 😭)
 
 - 🤔 Ehh...What else am I forgetting?
