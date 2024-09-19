@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - Welcome to my Page
 
 - 🔭 I’m currently working on My Worker API project.
-- 🌱 I’m currently learning more on AI and API's for my project
+- 🌱 Also Learning more on AI and API's for my project
 
 - 🤔 Ehhh...What else am I forgetting?
 - 💬 Uhhh, These are the languages I'm still learning more on :
