@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 - Welcome to my Page
 
-- 🔭 I’m currently working on My Worker API project.
-- 🌱 Also Learning more on AI and API's for my project
+- 🔭 Jump start my motorola.
+- 🌱 Make AI for the wepesi
 
 - 🤔 Ehhh...What else am I forgetting?
 - 💬 Uhhh, These are the languages I'm still learning more on :
