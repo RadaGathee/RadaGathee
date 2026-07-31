@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 Jump start my motorola.
 - 🌱 Make AI for the wepesi
 
-- 🤔 sudo?
+- 🤔 sudo like it's judo?
 - 💬 huh!!! :
 
      ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
